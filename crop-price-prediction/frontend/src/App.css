@@ -1,0 +1,195 @@
+body{
+
+margin:0;
+
+font-family:
+'Segoe UI',sans-serif;
+
+background:#f4fff4;
+
+}
+
+/* Navbar */
+
+.navbar{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:20px 70px;
+
+background:#2e7d32;
+
+color:white;
+
+}
+
+.navbar a{
+
+color:white;
+
+margin:20px;
+
+text-decoration:none;
+
+font-size:17px;
+
+}
+
+/* Hero */
+
+.hero{
+
+height:450px;
+
+background:
+
+linear-gradient(
+rgba(0,80,0,.5),
+rgba(0,80,0,.5)
+),
+
+url("./assets/farm.jpg");
+
+background-size:cover;
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+color:white;
+
+text-align:center;
+
+}
+
+.hero h1{
+
+font-size:45px;
+
+}
+
+.hero p{
+
+font-size:20px;
+
+max-width:600px;
+
+}
+
+.hero button{
+
+padding:15px 35px;
+
+background:#8bc34a;
+
+border:none;
+
+border-radius:30px;
+
+font-size:18px;
+
+}
+
+/* Prediction */
+
+.prediction-card{
+
+background:white;
+
+width:400px;
+
+margin:50px auto;
+
+padding:35px;
+
+border-radius:20px;
+
+box-shadow:
+0 5px 20px #ccc;
+
+text-align:center;
+
+}
+
+input{
+
+width:80%;
+
+padding:15px;
+
+border-radius:10px;
+
+border:1px solid #ccc;
+
+}
+
+.prediction-card button{
+
+margin-top:20px;
+
+padding:12px 30px;
+
+background:#2e7d32;
+
+color:white;
+
+border:none;
+
+border-radius:20px;
+
+}
+
+.result{
+
+margin-top:20px;
+
+font-size:22px;
+
+color:#2e7d32;
+
+font-weight:bold;
+
+}
+
+/* Features */
+
+.features{
+
+display:flex;
+
+justify-content:center;
+
+gap:30px;
+
+margin:50px;
+
+}
+
+.features div{
+
+background:white;
+
+padding:30px;
+
+width:250px;
+
+text-align:center;
+
+border-radius:20px;
+
+box-shadow:
+0 4px 15px #ddd;
+
+}
+
+.features h3{
+
+color:#2e7d32;
+
+}
