@@ -1,3 +1,6 @@
+#internship
+project:
+
 🌾 Agriculture Crop Price Display System
 
 A full-stack web application designed to display crop prices across different states and markets. The platform helps farmers and users quickly search and access crop price information.
