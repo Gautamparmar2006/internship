@@ -1,8 +1,5 @@
-# internship
+🌾 Agriculture Crop Price Display System
 
-project: 
-# 🌾 Agriculture Crop Price Prediction System
+A full-stack web application designed to display crop prices across different states and markets. The platform helps farmers and users quickly search and access crop price information.
 
-A full-stack web application that predicts crop prices using historical market data and provides an easy-to-use platform for farmers and administrators to analyze crop prices.
-
-The system is developed using **React.js, Express.js, and MariaDB** with CRUD operations, prediction features, and an analytics dashboard.
+Built using React.js, Express.js, and MariaDB/MySQL, the system includes CRUD-based admin management, REST API integration, and a responsive user interface for efficient crop price management and display.
